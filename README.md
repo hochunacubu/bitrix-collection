@@ -4,7 +4,7 @@
 ## Пример работы:
 ```
 $list = []; // массив с элементами инфоблока
-$list [
+$list = [
     ['ID' => 1, 'NAME' => 'name', 'PREVIEW_PICTURE' = 1],
     ['ID' => 2, 'NAME' => 'name', 'PREVIEW_PICTURE' = 2],
     ['ID' => 3, 'NAME' => 'name', 'PREVIEW_PICTURE' = 3]
