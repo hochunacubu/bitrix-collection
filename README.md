@@ -16,7 +16,7 @@ $paths = $collectionImage->setArrElements($list, 'PREVIEW_PICTURE') //второ
                          ->getList();
 ```
                          
-Так же можно просто передать на вход метода getList готовый массив идентификаторов для выборки
+Также можно просто передать первым параметром в метод getList готовый массив идентификаторов для выборки
 ```
 $ids = [1, 2, 3];
 $collectionImage = new FileCollection();
